@@ -1,9 +1,31 @@
 .lightblue {
   color: #80ccf2;
+  font-family: monospace;
 }
 
 .personal {
   color: #77daff;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.section {
+  color: #96a1a5;
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+h1 {
+  color: #00bbff;
+  font-family: cursive;
+}
+
+h2, h3 {
+  color: #04759e;
+  font-family: verdana;
+}
+
+li {
+  color: #77d8c0;
 }
 
 body {
